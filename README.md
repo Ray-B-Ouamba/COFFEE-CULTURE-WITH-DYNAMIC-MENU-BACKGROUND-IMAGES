@@ -2,7 +2,7 @@
 
 We have build a coffee culture with a rotate background images to make it easier for patrons to understand what meals and drinks the café serves. 
 
-**PROJECT LINK:**  https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
+**PROJECT LINK:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES/
 
 **TECH USED:** 
 HTML, CSS.
