@@ -1,6 +1,6 @@
 # COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES
 
-We have build a coffee culture with a rotate background images to make it easier for patrons to understand what meals and drinks the café serves serves..
+We have build a coffee culture with a rotate background images to make it easier for patrons to understand what meals and drinks the café serves.
 
 **PROJECT LINK:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES/
 
