@@ -9,12 +9,9 @@ We have build a coffee culture with a rotate background images to make it easier
 * CSS.
 * JavaScript
 
-## OPTIMIZATIONS
-Create a Coffe-Culture-Menu with a background changing image. 
-
 ## LESSONS LEARNED:
-* Learn the basic of CSS.
-* Use CSS to set the color, font, size, and other aspects of HTML elements.
+* Utilize the "setInterval" function."
+* use the method " addEventListener."
 
 ## SIMILAR PROJECT:
 
