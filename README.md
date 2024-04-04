@@ -5,7 +5,9 @@ We have build a coffee culture with a rotate background images to make it easier
 **PROJECT LINK:** https://ray-b-ouamba.github.io/COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES/
 
 **TECH USED:** 
-HTML, CSS.
+* HTML,
+* CSS.
+* JavaScript
 
 ## OPTIMIZATIONS
 Create a Coffe-Culture-Menu with a background changing image. 
