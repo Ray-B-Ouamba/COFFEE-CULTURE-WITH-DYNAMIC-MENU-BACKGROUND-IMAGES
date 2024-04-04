@@ -1,7 +1,6 @@
 # COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES
 
-#  COFFEE-CULTURE-MENU
-To help customers to know what food and beverages the cafe offers. 
+We have build a coffee culture with a rotate background images to make it easier for patrons to understand what meals and drinks the café serves. 
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
 
